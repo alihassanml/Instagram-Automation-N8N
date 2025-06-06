@@ -1,5 +1,5 @@
 # 📸 Instagram Automation with n8n & Apify
-![workflow](./)
+![workflow](./image.png)
 
 This workflow automatically:
 
